@@ -1,0 +1,14 @@
+Programming exercise #3
+
+
+A.	line 4: "inner.k" => "Inner.k"
+line 3: Delete line 3
+
+B.	The code compiles successfully without any errors
+
+C.	line 22: add “}”
+line 1: “private int i;” => “protected int i;”
+
+D.	(e) The code will compile without error and will print 123 when run.
+
+E.	It’s not allowed to change a private variable outside of the class. To change the value of the variables we should neither create a set method to change values or change the type of variables from private to public.
