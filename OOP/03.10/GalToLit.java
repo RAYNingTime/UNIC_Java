@@ -1,4 +1,3 @@
-package Lab1;
 
 /* Project 1-1 This program converts gallons to liters.
 Call this program GalToLit.java.
