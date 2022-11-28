@@ -1,4 +1,3 @@
-package Lab1;
 
 public class Mult_Q1 { 
 	public static void main(String[] args) {
