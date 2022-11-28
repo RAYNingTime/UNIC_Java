@@ -1,4 +1,3 @@
-package Lab1;
 
 /*
  * This program used to test a second multiple choice exercise.
