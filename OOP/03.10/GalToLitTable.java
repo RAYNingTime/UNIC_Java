@@ -1,4 +1,3 @@
-package Lab1;
 
 /*This program displays a conversion table 
  * of gallons to liters. Call this program "GalToLitTable.java". */
