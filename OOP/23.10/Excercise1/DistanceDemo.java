@@ -1,3 +1,4 @@
+package Excercise1;
 import java.util.Scanner;
 
 public class DistanceDemo {
