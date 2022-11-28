@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class progExNum5 {
+public class DayOfWeek {
 
 	public static void main(String[] args) {
 		final int MAX_MONTH = 12, MIN_MONTH = 1, MIN_DAY = 1,MAX_YEAR = 2399, MIN_YEAR = 1700;
