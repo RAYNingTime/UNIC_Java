@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class progExNum1 {
+public class NumericInput {
 
 	public static void main(String[] args) {
 		int integer;
