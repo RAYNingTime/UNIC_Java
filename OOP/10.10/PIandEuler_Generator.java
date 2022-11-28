@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class progExNum6 {
+public class PIandEuler_Generator {
 
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);
