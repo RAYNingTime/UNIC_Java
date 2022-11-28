@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class progExNum4 {
+public class Insurance {
 
 	public static void main(String[] args) {
 		final int PER_YEARS = 10, INCRESE = 15, MULTIPLICATION = 20;
