@@ -1,3 +1,4 @@
+package Excercise2;
 
 public class Student {
 	private int studentId;
