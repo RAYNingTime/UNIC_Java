@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class progExNum2 {
+public class RandomGuessMatch {
 
 	public static void main(String[] args) {
 		final int MAX = 5, MIN = 1;
