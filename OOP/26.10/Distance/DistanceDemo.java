@@ -1,4 +1,4 @@
-
+package Distance;
 import java.util.Scanner;
 
 public class DistanceDemo {
