@@ -1,0 +1,16 @@
+1. Which of the following method calls are legal?
+Not legal are: 
+    d - Because we are trying to call a function with an int with double variable
+    e - Because we are trying to call a function with an int with double digit
+    g - Because we are trying to call a function with variable that is not created
+    i - Because we are trying to call a function with a single argument, while second doesn't have any default data
+
+Legal are: a,b,c,f,h,j
+
+2. X = 7, Y = 8
+ Is X is equal to 3? No
+ Is X bigger than 9? No
+ Is Y lower than 9? Yes
+End of the "If-Else" chain
+
+Result is: A. 3
