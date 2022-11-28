@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class progExNum3 {
+public class PaintCalculator {
 
 	public static void main(String[] args) {
 		final char AGREE = 'y', DISAGREE = 'n';
