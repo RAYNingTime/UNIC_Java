@@ -1,3 +1,5 @@
+package Excercise1;
+
 public class Distance {
 	private	double speed;
 	private	int hours;
